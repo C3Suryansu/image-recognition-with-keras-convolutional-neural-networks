@@ -221,4 +221,8 @@ We have seen that reasonably high levels of accuracy were generated when using a
 
 That said, depending on the type of images under analysis, it is possible to obtain respectable results with a small sample size when combined with a pretrained network.
 
-Thank you for your time, and I also highly recommend the **Deep Learning with Python** guide by François Chollet - which I consulted when constructing the model for this example. 
+## Useful References
+
+Many thanks for reading — the link to the GitHub repository (to run this example yourself) is included at the "View on GitHub" link at the top of the page. There is also a YouTube tutorial available on this topic [here](https://www.youtube.com/watch?v=jnCcVohJZH0).
+
+Additionally, I highly recommend the Deep Learning with Python guide by François Chollet — which I consulted when constructing the model for this example.
