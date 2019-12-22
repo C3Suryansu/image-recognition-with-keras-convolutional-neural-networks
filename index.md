@@ -223,6 +223,8 @@ That said, depending on the type of images under analysis, it is possible to obt
 
 ## Useful References
 
-Many thanks for reading — the link to the GitHub repository (to run this example yourself) is included at the "View on GitHub" link at the top of the page. There is also a YouTube tutorial available on this topic [here](https://www.youtube.com/watch?v=jnCcVohJZH0).
+Many thanks for reading — the link to the GitHub repository is included at the **View on GitHub** link at the top of the page.
+
+There is also a YouTube tutorial available on this topic [here](https://www.youtube.com/watch?v=jnCcVohJZH0).
 
 Additionally, I highly recommend the Deep Learning with Python guide by François Chollet — which I consulted when constructing the model for this example.
